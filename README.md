@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a)! Eu sou o Ronald 💻👩‍💻
 **`Information Technology`**
 
-Meu nome é Ronald Kauê, tenho 21 anos e sou de São Paulo (capital).  Atualmente, curso **Ciências da Computação na Unip** e estou no 4° semestre. Sempre amei saber mais sobre computadores e tudo o que tem a ver com eles. Quando conheci programação, não foi diferente, é algo recente na minha vida (de modo prático), mas é um tema que sempre foi presente na minha vida desde novo, por influência de pessoas da família, amigos e pela minha própria curiosidade. Busco sempre aprender, evoluir, aperfeiçoar minhas habilidades e contribuir para projetos que de fato possam ajudar as pessoas e facilitar o trabalho e a vida delas!
+Meu nome é Ronald Kauê, tenho 21 anos e sou de São Paulo (capital).  Atualmente, curso **Ciências da Computação na Unip** e estou no 4° semestre. Sempre amei saber mais sobre computadores e tudo o que tem a ver com eles. Quando conheci programação, não foi diferente, é algo recente na minha vida (de modo prático), mas é um tema que sempre foi presente na minha vida desde novo, pela influência de amigos e pela minha própria curiosidade. Busco sempre aprender, evoluir, aperfeiçoar minhas habilidades e contribuir para projetos que de fato possam ajudar as pessoas e facilitar o trabalho e a vida delas!
 
 
 
