@@ -3,7 +3,11 @@
 
 <p align="center"> <b>Meu nome é Ronald Kauê, tenho 21 anos e sou de São Paulo (capital).  Atualmente, curso Ciências da Computação na Unip e estou no 4° semestre. Sempre amei saber mais sobre computadores e tudo o que tem a ver com eles. Quando conheci programação, não foi diferente, é algo recente na minha vida (de modo prático), mas é um tema que sempre foi presente na minha vida desde novo, pela influência de amigos e pela minha própria curiosidade. Busco sempre aprender, evoluir, aperfeiçoar minhas habilidades e contribuir para projetos que de fato possam ajudar as pessoas e facilitar o trabalho e a vida delas!</b></p>
 
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=524&lines=+Bem+vindo+ao+meu+perfil!" alt="Typing SVG">
+  </a>
+</div>
 
 
 
