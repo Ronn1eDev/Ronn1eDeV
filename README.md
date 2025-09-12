@@ -1,18 +1,23 @@
 # Olá, seja bem-vindo(a)! Eu sou o Ronald 💻👩‍💻
 **`Information Technology`**
 
-<p align="center"> <b>Meu nome é Ronald Kauê, tenho 21 anos e sou de São Paulo (capital).  Atualmente, curso Ciências da Computação na Unip e estou no 4° semestre. Sempre amei saber mais sobre computadores e tudo o que tem a ver com eles. Quando conheci a programação, não foi diferente, é algo recente na minha vida (de modo prático), mas é um tema que já conheço há anos e sempre tive curiosidade. <br> 
-Buscando sempre aprender, evoluir, aperfeiçoar minhas habilidades e contribuir para projetos que de fato possam ajudar as pessoas e facilitar o trabalho e a vida delas!</b></p>
+<p align="center"> <b>Meu nome é Ronald Kauê, tenho 21 anos e sou de São Paulo (capital).  Atualmente, estou cursando Ciências da Computação na Unip e estou no 4° semestre. Sempre amei saber mais sobre computadores e tudo o que tem a ver com eles, quando conheci a programação, não foi diferente. <br> 
+Buscando sempre me desafiar, aprender, evoluir, aperfeiçoar minhas habilidades e contribuir para projetos que de fato possam ajudar as pessoas e facilitar o trabalho e a vida delas!</b></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=524&lines=+Bem+vindo+ao+meu+perfil!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=524&lines=+Links" alt="Typing SVG">
   </a>
 </div>
 
+<div align="center"> 
+<a href="https://www.instagram.com/ronaldkkkkj/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:ronald.kauesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+---
 
 
-##
 ### 🎯 Linguagens e tecnologias
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML" title="HTML"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,15 +26,6 @@ Buscando sempre aprender, evoluir, aperfeiçoar minhas habilidades e contribuir 
   </div>
 <br/>
 <br/> 
-
-##
-### 🉐 SOCIAL
-<div> 
-<a href="https://www.instagram.com/ronaldkkkkj/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:ronald.kauesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-##
 
 ### 📊 Estatísticas
 
